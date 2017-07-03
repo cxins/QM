@@ -1,6 +1,6 @@
 # QM
 <h3>系统模型图</h3>
-![1](/2.PNG)</br>
+![1](2.PNG)</br>
 <h3>数据结构图</h3>
 ![2](https://github.com/cxins/QM/blob/master/1.PNG)</br>
 <h3>系统分层结构图</h3>
