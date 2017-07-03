@@ -9,6 +9,7 @@
 ![4](https://github.com/cxins/QM/blob/master/6.PNG)<br/>
 顺序图<br/>
 ![5](https://github.com/cxins/QM/blob/master/3.PNG)<br/>
+顺序图<br/>
 ![6](https://github.com/cxins/QM/blob/master/4.PNG)<br/>
 测试图<br/>
 ![7](https://github.com/cxins/QM/blob/master/7.PNG)<br/>
@@ -30,7 +31,7 @@
 ![20](https://github.com/cxins/QM/blob/master/15.PNG)<br/>
 删除教师<br/>
 ![14](https://github.com/cxins/QM/blob/master/16.PNG)<br/>
->学生后台（课程计划、已选课程、课程成绩、可选课程）</h3>
+>学生后台（课程计划、已选课程、课程成绩、可选课程）<br/>
 ![15](https://github.com/cxins/QM/blob/master/17.PNG)<br/>
 进行选课<br/>
 ![16](https://github.com/cxins/QM/blob/master/18.PNG)<br/>
